@@ -5,7 +5,9 @@
   set title
   set incsearch
   set background=dark
-	set ts=2
+  set ts=2
+  set et
+  colorscheme delek
   
   syntax on
 
